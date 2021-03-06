@@ -2,13 +2,14 @@ footer {
   margin: 0 1rem .5rem;
   position: absolute;
   text-align: center;
-  bottom: 0; right: 0;
-  font-size: 11px;
+  bottom: 0.5rem; right: 0.5rem;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
 }
 a {
   font-size: inherit;
   text-decoration: inherit;
-  color: var(--neutral-very-dark-blue);
+  color: hsl(234, 12%, 34%);
 }
 a:hover {
   text-decoration: underline;

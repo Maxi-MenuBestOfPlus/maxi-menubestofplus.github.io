@@ -1,4 +1,6 @@
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
   text-transform: capitalize;
   font: 400 18px 'Kumbh Sans', sans-serif;
@@ -9,7 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 97vh;
+  min-height: 100vh;
 }
 #profile-card {
   width: 350px;
@@ -28,7 +30,7 @@ strong {
   
   letter-spacing: normal;
 }
-p {
+.p {
   display: flex;
   flex-direction: column;
   justify-content: center;
