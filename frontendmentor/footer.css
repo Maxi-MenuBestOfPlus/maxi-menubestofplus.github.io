@@ -1,0 +1,15 @@
+footer {
+  margin: 0 1rem .5rem;
+  position: absolute;
+  text-align: center;
+  bottom: 0; right: 0;
+  font-size: 11px;
+}
+a {
+  font-size: inherit;
+  text-decoration: inherit;
+  color: var(--neutral-very-dark-blue);
+}
+a:hover {
+  text-decoration: underline;
+}
