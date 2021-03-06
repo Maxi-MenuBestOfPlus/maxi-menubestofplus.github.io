@@ -36,7 +36,7 @@ main {
   text-align: center;
   padding: 1rem 0;
   min-width: 375px;
-  border: 1px dotted olivedrab;
+  /*border: 1px dotted olivedrab;*/
 }
 #top > div {
   font-weight: 200;
