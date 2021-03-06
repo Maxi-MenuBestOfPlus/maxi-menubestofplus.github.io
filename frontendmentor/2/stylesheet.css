@@ -104,7 +104,7 @@ article {
 }
 
 /* footer */
-
+/*
 footer {
   width: 100%;
   position: absolute;
@@ -121,7 +121,7 @@ footer {
   color: hsl(229, 92%, 19%);
 }
 footer > a:hover { text-decoration: underline; }
-
+*/
 @media (max-width: 375px) {
   body { height: 150%; }
   main {
@@ -138,5 +138,5 @@ footer > a:hover { text-decoration: underline; }
     "right";
   }
   #svg { right: 1rem; }
-  footer { visibility: hidden;}
+  /*footer { visibility: hidden;}*/
 }
